@@ -147,3 +147,7 @@ plt.savefig('grafico_clima.png', dpi=300)
 
 # 10. Exibir o gráfico
 plt.show()
+
+
+
+### FIM DO SCRIPT
